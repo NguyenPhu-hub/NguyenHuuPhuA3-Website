@@ -1,0 +1,18 @@
+BUOI 3 - CAC DOAN MA NGUON TRICH TU PDF
+
+Luu y:
+- Noi dung duoi day la ban trich xuat van ban tu PDF, co the co dong bi xuong dong
+  do dinh dang PDF. Dung PDF goc de doi chieu truoc khi dan vao file PHP.
+- Du an trong tai lieu tiep tuc tu Buoi 1 + Buoi 2, khong phai bo ma nguon doc lap.
+- Cac file PHP nen duoc tao/hoan thien theo tung buoc trong PDF.
+
+Bước 1: Bảo mật thư mục uploads ................................................................................................ 3
+     Bước 2: Viết lớp ImageService — kiểm tra và xử lý ảnh ............................................................... 3
+     Bước 3: Viết Model Category ........................................................................................................ 6
+     Bước 4: Viết Model Product .......................................................................................................... 7
+     Bước 5: Viết Model ProductImage — toàn bộ nghiệp vụ ảnh sản phẩm ....................................... 8
+     Bước 6: Viết AdminCategoryController và view......................................................................12
+     Bước 7: Viết AdminProductController — CRUD thông tin sản phẩm .......................................16
+     Bước 8: Viết AdminProductImageController — xử lý thao tác ảnh .........................................20
+     Bước 9: Hoàn thiện view admin/product/form.php — thông tin + khu vực ảnh .......................23
+  
