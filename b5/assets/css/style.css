@@ -1,0 +1,30 @@
+body {
+    background: #f7f8fa;
+    color: #30343b;
+}
+.navbar-brand {
+    letter-spacing: .2px;
+}
+.product-card {
+    border: 1px solid #e8eaf0;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: .2s;
+}
+.product-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 22px rgba(0,0,0,.08);
+}
+.product-image {
+    height: 180px;
+    object-fit: contain;
+    padding: 12px;
+    background: white;
+}
+.price {
+    color: #dc3545;
+    font-weight: 700;
+}
+.card {
+    border-radius: 12px;
+}
